@@ -19,7 +19,7 @@ A simple Quiz App built using **HTML**, **CSS**, and **JavaScript**. This app al
 
 ## Live Demo
 
-You can try out the app by visiting the [Live Demo Link](*your demo link here*).
+You can try out the app by visiting the [Live Demo Link](https://quizapp-arun.netlify.app/).
 
 ## Screenshots
 
